@@ -30,7 +30,7 @@ publishDir = "docs"
 
 	# Navigation
 	[params.navigation]
-		brand = "Hugo Creative Theme"
+		brand = "Francisco Magalhães"
 
 		[params.navigation.links]
 			about     = "About"
