@@ -33,9 +33,9 @@ publishDir = "docs"
 		brand = "Francisco Magalhães"
 
 		[params.navigation.links]
-			about     = "About"
-			services  = "Services"
-			portfolio = "Portfolio"
+	#		about     = "About"
+	#		services  = "Services"
+	#		portfolio = "Portfolio"
 			contact   = "Contact"
 
 
@@ -48,35 +48,35 @@ publishDir = "docs"
 
 
 	# About section
-	[params.about]
-		headline    = "We've got what you need!"
-		description = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Praesentium similique eos eligendi error veritatis harum, sed aliquid totam, quam minus neque enim est architecto, ad. Maiores, aliquid, vitae!"
-		buttonText  = "Get started!"
+	# [params.about]
+	# 	headline    = "We've got what you need!"
+	# 	description = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Praesentium similique eos eligendi error veritatis harum, sed aliquid totam, quam minus neque enim est architecto, ad. Maiores, aliquid, vitae!"
+	# 	buttonText  = "Get started!"
 
 
 	# Service section
-	[params.services]
-		headline = "At your service"
-
-        [[params.services.list]]
-            icon = "fa-diamond"
-            title = "Sturdy Templates"
-            description = "Our templates are updated regularly so they don't break."
-
-        [[params.services.list]]
-			icon = "fa-paper-plane"
-			title = "Ready to Ship"
-			description = "You can use this theme as is, or you can make changes!"
-
-		[[params.services.list]]
-            icon = "fa-newspaper-o"
-            title = "Up to Date"
-            description = "We update dependencies to keep things fresh."
-
-        [[params.services.list]]
-            icon = "fa-heart"
-            title = "Made with Love"
-            description = "You have to make your websites with love these days!"
+	# [params.services]
+	# 	headline = "At your service"
+	#
+  #       [[params.services.list]]
+  #           icon = "fa-diamond"
+  #           title = "Sturdy Templates"
+  #           description = "Our templates are updated regularly so they don't break."
+	#
+  #       [[params.services.list]]
+	# 		icon = "fa-paper-plane"
+	# 		title = "Ready to Ship"
+	# 		description = "You can use this theme as is, or you can make changes!"
+	#
+	# 	[[params.services.list]]
+  #           icon = "fa-newspaper-o"
+  #           title = "Up to Date"
+  #           description = "We update dependencies to keep things fresh."
+	#
+  #       [[params.services.list]]
+  #           icon = "fa-heart"
+  #           title = "Made with Love"
+  #           description = "You have to make your websites with love these days!"
 
 
     # Portfolio modals
@@ -87,12 +87,12 @@ publishDir = "docs"
         buttonText = "Close"
 
     # Aside section
-	[params.aside]
-		headline = "Get the Creative Theme for Hugo"
-
-		[params.aside.button]
-			text = "Download now"
-			link = "//github.com/digitalcraftsman/hugo-creative-theme"
+	# [params.aside]
+	# 	headline = "Get the Creative Theme for Hugo"
+	#
+	# 	[params.aside.button]
+	# 		text = "Download now"
+	# 		link = "//github.com/digitalcraftsman/hugo-creative-theme"
 
 	# Contact section
 	[params.contact]
