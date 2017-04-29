@@ -1,6 +1,6 @@
 baseurl = "https://franciscodemag.github.io/"
 languageCode = "en-us"
-title = "Francisco Magalhães"
+title = "Francisco Magalhaes"
 theme = "hugo-creative-theme"
 googleAnalytics = ""
 publishDir = "docs"
@@ -30,7 +30,7 @@ publishDir = "docs"
 
 	# Navigation
 	[params.navigation]
-		brand = "francisco magalhaes"
+		brand = "francisco m magalhaes"
 
 		[params.navigation.links]
 	#		about     = "About"
