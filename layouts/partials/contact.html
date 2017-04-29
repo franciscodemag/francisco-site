@@ -1,5 +1,45 @@
-<i class="fa fa-instagram" aria-hidden="true"></i>
-<i class="fa fa-facebook" aria-hidden="true"></i>
-<i class="fa fa-circle-thin" aria-hidden="true"></i>
-<i class="fa fa-vimeo" aria-hidden="true"></i>
-<i class="fa fa-envelope-o" aria-hidden="true"></i>
+{{ "<!-- CONTACT -->" | safeHTML }}
+<section id="contact">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 text-center">
+        {{ with .Site.Params.contact.headline }}
+          <h2 class="section-heading">{{ . }}</h2>
+        {{ end }}
+        {{ if and .Site.Params.contact.headline .Site.Params.contact.description }}
+          <hr class="primary">
+        {{ end }}
+        {{ with .Site.Params.contact.description }}
+          <p>{{ . | markdownify }}</p>
+        {{ end }}
+      </div>
+    </div>
+    <div class='row'>
+      {{ if .Site.Params.contact.instagram }}
+      <div class="col-lg-offset-1 col-lg-2 text-center">
+        <p><a href="{{ .Site.Params.contact.instagram }}"><i class="fa fa-instagram fa-3x wow bounceIn" data-wow-delay=".1s" aria-hidden="true"></i></a></p>
+      </div>
+      {{ end }}
+      {{ if .Site.Params.contact.facebook }}
+      <div class="col-lg-2 text-center">
+        <p><a href="{{ .Site.Params.contact.facebook }}"><i class="fa fa-facebook fa-3x wow bounceIn" data-wow-delay=".1s" aria-hidden="true"></i></a></p>
+      </div>
+      {{ end }}
+      {{ if .Site.Params.contact.hitrecord }}
+      <div class="col-lg-2 text-center">
+        <p><a href="{{ .Site.Params.contact.hitrecord }}"><i class="fa fa-circle-thin fa-3x wow bounceIn" data-wow-delay=".1s" aria-hidden="true"></i></a></p>
+      </div>
+      {{ end }}
+      {{ if .Site.Params.contact.vimeo }}
+      <div class="col-lg-2 text-center">
+        <p><a href="{{ .Site.Params.contact.vimeo }}"><i class="fa fa-vimeo fa-3x wow bounceIn" data-wow-delay=".1s" aria-hidden="true"></i></a></p>
+      </div>
+      {{ end }}
+      {{ if .Site.Params.contact.email }}
+      <div class="col-lg-2 text-center">
+        <p><a href="mailto:{{ .Site.Params.contact.email }}"><i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s" aria-hidden="true"></i></a></p>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
