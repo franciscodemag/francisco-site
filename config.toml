@@ -48,9 +48,9 @@ publishDir = "docs"
 
 
 	# About section
-	# [params.about]
-	# 	headline    = "We've got what you need!"
-	# 	description = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Praesentium similique eos eligendi error veritatis harum, sed aliquid totam, quam minus neque enim est architecto, ad. Maiores, aliquid, vitae!"
+	 [params.about]
+	 	headline    = "contact me"
+	 	description = "I am francisco and I do animation. Illustration. I came from engineering you know? Self-taught animator and all that jazz. You can find me here. I might take hitRECord out of these, it has tooooooo much. But yea anyways, you can find me here."
 	# 	buttonText  = "Get started!"
 
 
@@ -97,9 +97,9 @@ publishDir = "docs"
 	# Contact section
 	[params.contact]
 		headline = "contact me"
-		description = "I am francisco and I do this. you can find me here"
+		description = "I am francisco and I do animation. Illustration. I came from engineering you know? Self-taught animator and all that jazz. You can find me here. I might take hitRECord out of these, it has tooooooo much. But yea anyways, you can find me here."
 		#phone = " "
-		email = " "
+		#email = " "
 
 	# Google Maps section
 	# [params.location]
