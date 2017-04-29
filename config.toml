@@ -98,6 +98,7 @@ publishDir = "docs"
 	[params.contact]
 		headline = "contact me"
 		description = "I am francisco and I do this. you can find me here"
+		<i class="fa fa-instagram" aria-hidden="true"></i>
 		phone = ""
 		email = ""
 
