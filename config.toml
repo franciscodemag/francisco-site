@@ -98,7 +98,7 @@ publishDir = "docs"
 	[params.contact]
 		headline = "contact me"
 		description = "I am francisco and I do this. you can find me here"
-		phone = " "
+		#phone = " "
 		email = " "
 
 	# Google Maps section
