@@ -48,9 +48,9 @@ publishDir = "docs"
 
 
 	# About section
-	 [params.about]
-	 	headline    = "contact me"
-	 	description = "I am francisco and I do animation. Illustration. I came from engineering you know? Self-taught animator and all that jazz. You can find me here. I might take hitRECord out of these, it has tooooooo much. But yea anyways, you can find me here."
+	 #[params.about]
+	# 	headline    = "contact me"
+	 #	description = "I am francisco and I do animation. Illustration. I came from engineering you know? Self-taught animator and all that jazz. You can find me here. I might take hitRECord out of these, it has tooooooo much. But yea anyways, you can find me here."
 	# 	buttonText  = "Get started!"
 
 
@@ -101,7 +101,7 @@ publishDir = "docs"
 		email = "francisco.md.magalhaes@gmail.com"
 		instagram = " "
 		facebook = " "
-		hitrecord = " "
+		hitrecord = "https://www.hitrecord.org/users/fmagalhaes"
 		vimeo = "https://vimeo.com/franciscomag"
 
 	# Google Maps section
