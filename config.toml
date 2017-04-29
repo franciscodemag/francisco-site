@@ -21,7 +21,7 @@ publishDir = "docs"
 
 	# To provide some metadata for search engines feel free to add some
 	# information about you and your website.
-	name = "Francisco Magalhães"
+	name = "francisco magalhaes"
 	description = "Your description"
 
 	# The path must be relative to the static folder
@@ -30,7 +30,7 @@ publishDir = "docs"
 
 	# Navigation
 	[params.navigation]
-		brand = "Francisco Magalhães"
+		brand = "francisco magalhaes"
 
 		[params.navigation.links]
 	#		about     = "About"
