@@ -49,8 +49,8 @@ publishDir = "docs"
 
 	# About section
 	 [params.about]
-	# 	headline    = "contact me"
-		description = "animator | illustrator | independent filmmaker"
+	 	headline    = "animator | illustrator | independent filmmaker"
+	#	description = " "
 	# 	buttonText  = "Get started!"
 
 
@@ -96,8 +96,8 @@ publishDir = "docs"
 
 	# Contact section
 	[params.contact]
-		headline = "contact me"
-		description = "Hi, I'm Francisco. I like to draw and make them drawings move. Thank you so much for having a look, I hope you liked it. Feel free to contact me @ any of the following."
+		headline = " "
+		description = "Hi, I'm Francisco. I like to draw and make them drawings move. Thank you so much for having a look. Feel free to contact me @ any of the following."
 		email = "francisco.md.magalhaes@gmail.com"
 		instagram = " "
 		facebook = " "
