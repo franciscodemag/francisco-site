@@ -44,7 +44,8 @@ publishDir = "docs"
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		#slogan     = ""
 		#subtitle   = ""
-		buttonText = "watch showreel"
+		#buttonText = "watch showreel"
+		showreelText = "watch showreel"
 
 
 	# About section
