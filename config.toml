@@ -96,7 +96,7 @@ publishDir = "docs"
 
 	# Contact section
 	[params.contact]
-		headline = "animator | illustrator"
+		headline = "animation | illustration"
 		description = "Hi, I'm Francisco! I like to draw and make them drawings move. Thank you so much for having a look. Feel free to contact me @ any of the following."
 		email = "francisco.md.magalhaes@gmail.com"
 		instagram = "https://www.instagram.com/francisco.mmagalhaes/?hl=en"
