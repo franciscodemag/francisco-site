@@ -48,9 +48,9 @@ publishDir = "docs"
 
 
 	# About section
-	 #[params.about]
+	 [params.about]
 	# 	headline    = "contact me"
-	 #	description = "I am francisco and I do animation. Illustration. I came from engineering you know? Self-taught animator and all that jazz. You can find me here. I might take hitRECord out of these, it has tooooooo much. But yea anyways, you can find me here."
+		description = "animator | illustrator | independent filmmaker"
 	# 	buttonText  = "Get started!"
 
 
@@ -97,7 +97,7 @@ publishDir = "docs"
 	# Contact section
 	[params.contact]
 		headline = "contact me"
-		description = "I am francisco and I do animation. Illustration. I came from engineering you know? Self-taught animator and all that jazz. You can find me here. I might take hitRECord out of these, it has tooooooo much. But yea anyways, you can find me here."
+		description = "Hi, I'm Francisco. I like to draw and make them drawings move. Thank you so much for having a look, I hope you liked it. Feel free to contact me @ any of the following."
 		email = "francisco.md.magalhaes@gmail.com"
 		instagram = " "
 		facebook = " "
