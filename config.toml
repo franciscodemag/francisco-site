@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "Francisco Magalhaes"
 theme = "hugo-creative-theme"
 googleAnalytics = ""
-publishDir = "docs"
 
 [params]
 
