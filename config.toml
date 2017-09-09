@@ -1,4 +1,4 @@
-baseurl = "https://www.franciscommagalhaes.com"
+baseurl = "http://www.franciscommagalhaes.com"
 languageCode = "en-us"
 title = "Francisco Magalhaes"
 theme = "hugo-creative-theme"
