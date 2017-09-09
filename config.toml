@@ -101,7 +101,7 @@ googleAnalytics = ""
 		email = "francisco.md.magalhaes@gmail.com"
 		instagram = "https://www.instagram.com/francisco.mmagalhaes/?hl=en"
 		facebook = "https://www.facebook.com/francisco.md.magalhaes/"
-		hitrecord = "https://www.hitrecord.org/users/fmagalhaes"
+        #	hitrecord = "https://www.hitrecord.org/users/fmagalhaes"
 		vimeo = "https://vimeo.com/franciscomag"
 
 	# Google Maps section
