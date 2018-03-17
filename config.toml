@@ -29,7 +29,7 @@ googleAnalytics = ""
 
 	# Navigation
 	[params.navigation]
-		brand = "francisco m magalhaes"
+		brand = "francisco magalhaes"
 
 		[params.navigation.links]
 	#		about     = "About"
@@ -50,7 +50,7 @@ googleAnalytics = ""
 	# About section
 	 [params.about]
 	# 	headline    = " "
-		description = "animator | illustrator"
+	#	description = "animator | illustrator"
 	# 	buttonText  = "Get started!"
 
 
@@ -100,8 +100,8 @@ googleAnalytics = ""
 		description = "Hi, I'm Francisco! I like to draw and then make them drawings move. Thank you so much for having a look. Feel free to contact me @ any of the following."
 		email = "francisco.md.magalhaes@gmail.com"
 		instagram = "https://www.instagram.com/francisco.mmagalhaes/?hl=en"
-		facebook = "https://www.facebook.com/francisco.md.magalhaes/"
-        #	hitrecord = "https://www.hitrecord.org/users/fmagalhaes"
+		# facebook = "https://www.facebook.com/francisco.md.magalhaes/"
+    #	hitrecord = "https://www.hitrecord.org/users/fmagalhaes"
 		vimeo = "https://vimeo.com/franciscomag"
 
 	# Google Maps section
